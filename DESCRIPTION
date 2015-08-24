@@ -1,0 +1,12 @@
+Package: uciml
+Title: UCI Machine Learning Datasets
+Version: 0.1
+Author: Peter Schulam
+Maintainer: Peter Schulam <pschulam@gmail.com>
+Description: Functions for downloading datasets from the UCI ML repository
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/pschulam/uciml
+BugReports: https://github.com/pschulam/uciml/issues
+Suggests: 
+    testthat
