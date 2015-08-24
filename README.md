@@ -22,6 +22,7 @@ devtools::install_github("pschulam/uciml")
 
 ```r
 library(uciml)
+download("Wine Quality")
 ```
 
 ## License
