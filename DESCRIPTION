@@ -8,5 +8,8 @@ License: MIT + file LICENSE
 LazyData: true
 URL: https://github.com/pschulam/uciml
 BugReports: https://github.com/pschulam/uciml/issues
-Suggests: 
+Suggests:
     testthat
+Imports:
+    rvest,
+    stringr
